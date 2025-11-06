@@ -1,0 +1,16 @@
+{
+  "name": "video-downloader-app",
+  "version": "1.0.0",
+  "description": "A fully functional video downloader app based on provided designs.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ytdl-core": "^4.11.5",
+    "cors": "^2.8.5"
+  }
+}
